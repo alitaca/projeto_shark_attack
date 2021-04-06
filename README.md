@@ -18,3 +18,10 @@ Para simplificar, o trabalho será direcionado de forma a responder uma pergunta
 ## Projeto
 
 O foco deste projeto será em identificar se há uma relação entre a perigosidade dos ataques de tubarão e o oceano em que ocorreu o ataque.
+
+
+### Análise
+
+
+
+![grafico](/graf.jpg)
