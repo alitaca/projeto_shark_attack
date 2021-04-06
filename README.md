@@ -24,4 +24,4 @@ O foco deste projeto será em identificar se há uma relação entre a perigosid
 
 
 
-![grafico](/graf.jpg)
+![grafico](/graf.JPG)
