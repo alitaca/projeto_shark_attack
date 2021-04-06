@@ -22,6 +22,6 @@ O foco deste projeto será em identificar se há uma relação entre a perigosid
 
 ### Análise
 
-
+Os dados mostram que não há grande diferença na quantidade de incidentes com tubarões nos oceanos Atlântico e Pacífico. Os incidentes não fatais são levemente mais recorrentes no Oceano Atlântico, porém os números são bem próximos se considerados apenas os incidentes fatais. Por outro lado, há muito menos incidentes no Oceano Índico.
 
 ![grafico](/graf.JPG)
